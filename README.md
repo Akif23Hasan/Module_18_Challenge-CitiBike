@@ -26,6 +26,10 @@ As part of the assignment, I created a basic static map that plots all bike stat
 ## Final Presentation
 For the final presentation, I utilized Tableau to create a compelling story that brings together all the visualizations, maps, and dashboards developed for the two phenomena. The presentation is designed to be professional, logical, and visually appealing. It effectively communicates the findings, insights, and analysis to stakeholders, enabling them to make informed decisions based on the data-driven observations.
 
+### Phenomenon 1: Pedal Power Metrics
+https://public.tableau.com/shared/S3C2T72WM?:display_count=n&:origin=viz_share_link
+### Phenomenon 2: Impact of Seasons
+https://public.tableau.com/shared/FCT2YCDD2?:display_count=n&:origin=viz_share_link
 
 ## Tableau Dashboard Link
 
@@ -36,7 +40,7 @@ Page 1: https://public.tableau.com/views/Challenge18_CitiBike/PedalPowerMetricsD
 Page 2: https://public.tableau.com/views/Challenge18_CitiBike/PedalPowerMetricsDashboard_Page2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 ![alt text](https://github.com/Akif23Hasan/Module_18_Challenge-CitiBike/blob/main/Dashboard%20Screenshots/PedalPowerMetrics_ViewPage2.png)
 
-### Phenomenon 2: Pedal Power Metrics
+### Phenomenon 2: Impact of Seasons
 Page 1: https://public.tableau.com/views/Challenge18_CitiBike/SeasonsAnalysisDashboard_Page1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 ![alt text](https://github.com/Akif23Hasan/Module_18_Challenge-CitiBike/blob/main/Dashboard%20Screenshots/SeasonsAnalysisDashboard_Page1.png)
 
