@@ -37,9 +37,10 @@ Page 2: https://public.tableau.com/views/Challenge18_CitiBike/PedalPowerMetricsD
 ![alt text](https://github.com/Akif23Hasan/Module_18_Challenge-CitiBike/blob/main/Dashboard%20Screenshots/PedalPowerMetrics_ViewPage2.png)
 
 ### Phenomenon 2: Pedal Power Metrics
-Add in screenshots
-
+Page 1: https://public.tableau.com/views/Challenge18_CitiBike/SeasonsAnalysisDashboard_Page1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 ![alt text](https://github.com/Akif23Hasan/Module_18_Challenge-CitiBike/blob/main/Dashboard%20Screenshots/SeasonsAnalysisDashboard_Page1.png)
+
+Page 2: https://public.tableau.com/views/Challenge18_CitiBike/SeasonsAnalysisDashboard_Page2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 ![alt text](https://github.com/Akif23Hasan/Module_18_Challenge-CitiBike/blob/main/Dashboard%20Screenshots/SeasonsAnalysisDashboard_Page2.png)
 
 
