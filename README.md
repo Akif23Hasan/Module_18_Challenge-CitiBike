@@ -1,7 +1,7 @@
 # Module 18 - Challenge - CitiBike Data Analysis
 
 ## Introduction
-Welcome to the Citi Bike Trip Analysis! In this assignment, I have completed the task of aggregating and analyzing the data from the Citi Bike Trip History Logs to uncover two unexpected phenomena. I have designed visualizations, created dashboards, and prepared a final presentation using Tableau to present my findings. This readme file provides an overview of the assignment and the work I have done.
+Welcome to the Citi Bike Trip Analysis! In this assignment, I have conducted a comprehensive analysis of the Citi Bike Trip History Logs, aiming to uncover two unexpected phenomena. Through the utilization of Tableau, I have curated insightful visualizations, crafted interactive dashboards, and prepared a final presentation to effectively communicate my findings. This readme file serves as a concise overview, outlining the objectives of the assignment and highlighting the analytical work undertaken.
 
 ## Requirements
 * Python v3.10.9
@@ -10,21 +10,21 @@ Welcome to the Citi Bike Trip Analysis! In this assignment, I have completed the
 
 
 ## Dataset
-For this analysis, I used the Citi Bike Trip History Logs dataset as the primary source of data. I had the flexibility to choose a specific timespan or merge multiple datasets from different periods to gain comprehensive insights into the phenomena.
+For this analysis, I utilized the Citi Bike Trip History Logs dataset as the primary source of data. To ensure comprehensive insights, I consolidated multiple monthly CSV raw data files into a single, unified database using Python. This consolidation allowed for a broader exploration of the phenomena while maintaining data integrity. Tableau was employed for further analysis, including calculations, visualizations, interactive dashboards, and the final data story presentation.
 
 ## Phenomenon 1: Pedal Power Metrics
-For my first phenomenon, I focused on exploring the relationship between station locations, user ages, user types and trip patterns. Through careful analysis, I aimed to identify any unexpected trends or insights related to specific age groups, popular station locations, and trip duration.
+The first phenomenon focused on investigating the relationship between station locations, user ages, user types, and trip patterns. Through meticulous analysis, I aimed to uncover unexpected trends and insights associated with specific age groups, popular station locations, and trip durations. This analysis sheds light on the factors influencing Citi Bike usage and informs decision-making for optimizing the bike-sharing program.
 
 ## Phenomenon 2: Impact of Seasons
-For my second phenomenon, I investigated the impact of seasons on Citi Bike usage. I analysed trip patterns, durations, and user behaviors during different seasons to uncover any unexpected variations or trends related to weather conditions and their effect on bike usage.
+The second phenomenon delved into the impact of seasons on Citi Bike usage. By analyzing trip patterns, durations, and user behaviors across different seasons, I aimed to identify any significant variations or trends influenced by weather conditions. This analysis provides valuable insights into the dynamics of bike usage throughout the year, enabling stakeholders to optimize resources and tailor strategies accordingly.
 
 ## Dashboard
-To present a comprehensive analysis of the phenomenon, I created two dashboard that integrates the visualisations developed for each phenonmenon. The dashboard provides an overview of the impact of seasons on CitiBike usage, highlighting the observed variations and their potential explanations. I accompanied the dashboard with a detailed analysis that helps city officials understand the reasons behind the fluctuations in bike usage during different seasons. By effectively leveraging these visualizations, I aimed to provide actionable insights for optimizing bike-sharing programs throughout the year.
+To present a comprehensive analysis of these phenomena, I created two dashboards integrating the visualizations developed for each phenomenon. These dashboards provide an overview of the impact of seasons on Citi Bike usage, highlighting observed variations and potential explanations. Accompanying the dashboards is a detailed analysis that helps city officials understand the underlying reasons behind fluctuations in bike usage during different seasons. These visualizations offer actionable insights for optimizing bike-sharing programs throughout the year.
 
-As part of the assignment, I created a basic static map that plots all bike stations in the city. I highlighted the most popular locations to start and end journeys using visual indicators. Additionally, I overlaid zip code data on top of the map to provide further context. I also included a write-up describing the trends and patterns I noticed during my analysis. This visualization serves as a valuable resource for city officials to gain an understanding of the most frequently used bike stations and the corresponding zip code areas.
+As part of the assignment, I also created a static map featuring all bike stations in the city. Notably, I highlighted the most popular starting and ending locations using visual indicators. In addition, I overlaid zip code data to provide further contextual information. To complement the visualizations, I included a detailed write-up describing the observed trends and patterns during the analysis. This visualization serves as a valuable resource for city officials to gain an understanding of the most frequently used bike stations and their corresponding station ID code areas.
 
 ## Final Presentation
-For the final presentation, I utilized Tableau to create a compelling story that brings together all the visualizations, maps, and dashboards developed for the two phenomena. The presentation is designed to be professional, logical, and visually appealing. It effectively communicates the findings, insights, and analysis to stakeholders, enabling them to make informed decisions based on the data-driven observations.
+For the final presentation, I utilized Tableau to craft a professional, logical, and visually appealing story. The presentation seamlessly combines all the visualizations, maps, and dashboards developed for the two phenomena. It effectively communicates the findings, insights, and analysis to stakeholders, empowering them to make informed decisions based on data-driven observations. The final presentation provides a comprehensive understanding of Citi Bike usage, highlighting key insights and recommendations for further optimization and growth.
 
 ### Phenomenon 1: Pedal Power Metrics
 https://public.tableau.com/shared/S3C2T72WM?:display_count=n&:origin=viz_share_link
@@ -47,5 +47,3 @@ Page 1: https://public.tableau.com/views/Challenge18_CitiBike/SeasonsAnalysisDas
 Page 2: https://public.tableau.com/views/Challenge18_CitiBike/SeasonsAnalysisDashboard_Page2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 ![alt text](https://github.com/Akif23Hasan/Module_18_Challenge-CitiBike/blob/main/Dashboard%20Screenshots/SeasonsAnalysisDashboard_Page2.png)
 
-
-## Resources
