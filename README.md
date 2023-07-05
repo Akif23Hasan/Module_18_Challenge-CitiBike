@@ -25,6 +25,7 @@ For the final presentation, I utilized Tableau to create a compelling story that
 
 ### Phenomenon 1: Pedal Power Metrics
 Page 1: https://public.tableau.com/views/Challenge18_CitiBike/PedalPowerMetricsDashboard_Page1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 Page 2: https://public.tableau.com/views/Challenge18_CitiBike/PedalPowerMetricsDashboard_Page2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ### Phenomenon 2: Pedal Power Metrics
