@@ -3,6 +3,10 @@
 ## Introduction
 Welcome to the Citi Bike Trip Analysis! In this assignment, I have completed the task of aggregating and analyzing the data from the Citi Bike Trip History Logs to uncover two unexpected phenomena. I have designed visualizations, created dashboards, and prepared a final presentation using Tableau to present my findings. This readme file provides an overview of the assignment and the work I have done.
 
+## Requirements
+* Please ensure to download the Citibike Data Files from January 2019 to January 2021 by accessing the provided link (https://s3.amazonaws.com/tripdata/index.html). Save these files in the designated folder before proceeding to run the CitiBike_Analysis.ipynb script. This step is crucial for obtaining accurate and up-to-date data for the analysis.
+
+
 ### Dataset
 For this analysis, I used the Citi Bike Trip History Logs dataset as the primary source of data. I had the flexibility to choose a specific timespan or merge multiple datasets from different periods to gain comprehensive insights into the phenomena.
 
